@@ -3,6 +3,7 @@
 A selection of Pyxel applications
 
 <table>
+<tr>
 <td><a href="https://github.com/humrochagf/pyxel-lander">Pyxel Lander</a></td>
 <td><a href="https://twitter.com/humrochagf">Humberto Rocha</a></td>
 <td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/pyxel_lander.gif">GIF</a></td>
