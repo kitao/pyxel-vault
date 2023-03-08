@@ -12,7 +12,7 @@ A selection of Pyxel applications
 <tr>
 <td><a href="https://github.com/Tokoroteen/emergency_button">Emergency Button</a></td>
 <td><a href="https://twitter.com/Tokoroteen__">Tokoroteen</a></td>
-<td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/baba_is_you.gif">GIF</a></td>
+<td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/emergency_button.gif">GIF</a></td>
 <td><a href="https://kitao.github.io/pyxel/wasm/launcher/?play=kitao.pyxel-vault.apps.emergency_button">Play</a></td>
 </tr>
 <tr>
