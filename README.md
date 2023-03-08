@@ -11,6 +11,13 @@ A selection of Pyxel applications
 ">Play</a></td>
 </tr>
 <tr>
+<td><a href="https://github.com/dannyso16/Maze">Maze</a></td>
+<td><a href="https://twitter.com/dannyso16">odanny</a></td>
+<td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/maze.gif">GIF</a></td>
+<td><a href="https://kitao.github.io/pyxel/wasm/launcher/?play=kitao.pyxel-vault.apps.maze&gamepad=enabled
+">Play</a></td>
+</tr>
+<tr>
 <td><a href="https://github.com/5h00T/mini_shooting">mini shooting</a></td>
 <td><a href="https://twitter.com/m4_sd">shoot.er</a></td>
 <td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/mini_shooting.gif">GIF</a></td>
@@ -29,5 +36,12 @@ A selection of Pyxel applications
 <td><a href="https://twitter.com/humrochagf">Humberto Rocha</a></td>
 <td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/pyxel_lander.gif">GIF</a></td>
 <td><a href="https://kitao.github.io/pyxel/wasm/launcher/?play=kitao.pyxel-vault.apps.pyxel_lander&gamepad=enabled">Play</a></td>
+</tr>
+<tr>
+<td>Quick shoot!</td>
+<td><a href="https://twitter.com/miso_2324">miso</a></td>
+<td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/quick_shoot.gif">GIF</a></td>
+<td><a href="https://kitao.github.io/pyxel/wasm/launcher/?play=kitao.pyxel-vault.apps.quick_shoot&gamepad=enabled
+">Play</a></td>
 </tr>
 </table>
