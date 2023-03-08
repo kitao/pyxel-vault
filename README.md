@@ -37,11 +37,4 @@ A selection of Pyxel applications
 <td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/pyxel_lander.gif">GIF</a></td>
 <td><a href="https://kitao.github.io/pyxel/wasm/launcher/?play=kitao.pyxel-vault.apps.pyxel_lander&gamepad=enabled">Play</a></td>
 </tr>
-<tr>
-<td>Quick shoot!</td>
-<td><a href="https://twitter.com/miso_2324">miso</a></td>
-<td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/quick_shoot.gif">GIF</a></td>
-<td><a href="https://kitao.github.io/pyxel/wasm/launcher/?play=kitao.pyxel-vault.apps.quick_shoot&gamepad=enabled
-">Play</a></td>
-</tr>
 </table>
