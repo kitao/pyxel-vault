@@ -42,7 +42,7 @@ A selection of Pyxel applications
 <tr>
 <td><a href="https://gitlab.com/Cereale/pyxel-jam-platformer">Tu-tu-tuweeeeep</a></td>
 <td><a href="https://gitlab.com/Cereale">Antoine</a></td>
-<td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/tuweeeeep.gif">GIF</a></td>
-<td><a href="https://kitao.github.io/pyxel/wasm/launcher/?play=kitao.pyxel-vault.apps.tuweeeeep&gamepad=enabled">Play</a></td>
+<td><a href="https://raw.githubusercontent.com/kitao/pyxel-vault/main/apps/tu_tu_tuweeeeep.gif">GIF</a></td>
+<td><a href="https://kitao.github.io/pyxel/wasm/launcher/?play=kitao.pyxel-vault.apps.tu_tu_tuweeeeep&gamepad=enabled">Play</a></td>
 </tr>
 </table>
